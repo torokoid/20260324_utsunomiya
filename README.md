@@ -339,9 +339,9 @@ https://youtube.com/shorts/1MxKGMEFFR4?feature=share<br>
 
 <br><br>
 
-<h2><span class="yellow">今日のBGMは、Happy Vibes Playlist 2026 🎶💕| English Acoustic Love Song | Viral TikTok Song 2026 ~ Those Eyes</span></h2>
+<h2><span class="yellow">今日のBGMは、รวมเพลงเพราะ-ฟังเพลิน ยุค 90-2000 (รวม 30 เพลง อะคูสติคคัฟเวอร์ ฟังยาวต่อเนื่อง)</span></h2>
 <div class="youtube-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h4SLn5usoxc?si=7zDF8HP6poa3dVO-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ruS-0s3_uqM?si=vgsNyIYx2M2nJ7gr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
 <!--
